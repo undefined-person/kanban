@@ -16,6 +16,9 @@ export default {
         linesLight: '#E4EBFA',
         linesDark: '#3E3F4E',
       },
+      fontFamily: {
+        sans: ['PlusJakartaSans', 'sans-serif'],
+      },
     },
   },
   plugins: [],
